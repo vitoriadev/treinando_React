@@ -1,12 +1,12 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 300;
+    font-weight: 200;
     font-size: 2rem;
-    background-color: #444;
-    color: #fff;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
 h1, h2 {
-    font-weight: 300;
+    font-weight: 200;
 }
